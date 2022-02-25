@@ -25,7 +25,7 @@ The Guard will patrol a set distance around their tower, which is based on their
 
 | Tower Level | Max Patrol Distance |
 | ----------- | ------------------- |
-| 1 | 80 blocks |
+| 1 | 81 blocks |
 | 2 | 110 blocks |
 | 3 | 140 blocks |
 | 4 | 170 blocks |
